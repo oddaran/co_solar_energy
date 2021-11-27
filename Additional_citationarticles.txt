@@ -1,0 +1,19 @@
+Bird, L, Heeter, J, O’Shaughnessy, E, Speer, B.  (2017) Policies for enabling corporate sourcing of renewable energy internationally. https://www.nrel.gov/docs/fy17osti/68149.pdf 
+
+Thornton, M. M., Shrestha, R., Wei, Y., Thornton, P. E., Kao, S., & Wilson, B. (2020). Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4 (Version 4). ORNL Distributed Active Archive Center. https://doi.org/10.3334/ORNLDAAC/1840 
+
+Energy Information Administration. (2021).  Electricity data browser [electricity data - Colorado].  https://www.eia.gov/electricity/data/browser/ 
+
+ESRI.  (2021). ArcGIS maps learning portal: https://learngis2.maps.arcgis.com/home/webmap/viewer.html?useExisting=1 
+
+Feng, Y, Gong, D, Zhang, Q.  (2019 Oct 15).  Evaluation of temperature-based machine learning and empirical models for predicting daily global solar radiation. Energy Conversion & Management, 198 (111780).  https://www-sciencedirect-com.csuglobal.idm.oclc.org/science/article/pii/S0196890419307629 
+
+Lazard (2020 Oct 19).  Levelized cost of energy and levelized cost of storage 2020.  https://www.lazard.com/perspective/levelized-cost-of-energy-and-levelized-cost-of-storage-2020/
+
+Matthews, K.  (2019 Jan).  How ai and data science is changing the utilities industry.  https://www.kdnuggets.com/2019/01/how-ai-data-science-changing-utilities-industry.html 
+
+Orsted.  (2020).  Our 2020 sustainability programmes.  https://orsted.com/en/sustainability/our-strategy/sustainability-programmes 
+
+Open Energy Data Initiative. (2018 Sep). Solar and storage: reducing barriers through cost-optimization and market characterization. https://openei.org/wiki/Solar%2BStorage 
+
+Solar energy industries association.  (2020 July).  Major solar projects list.  https://seia.org/solar-industry-research-data
